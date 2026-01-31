@@ -104,3 +104,5 @@ go run main.go
 ## 许可证
 
 MIT License
+
+Updated: 2026-01-31
